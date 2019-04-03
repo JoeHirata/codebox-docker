@@ -11,6 +11,11 @@
 $ dokcer-compose up -d
 ```
 
+# Usage
+
+- ブラウザで http://localhost:8000 へアクセス。(もしくはIPアドレス:8000)
+- codeboxが起動しているPCのIPアドレス:8000 へアクセスすると共同編集が可能
+
 # Authors
 https://github.com/CodeboxIDE/codebox
 
